@@ -1,0 +1,1 @@
+<script src="<%=request.getContextPath() %>/js/jquery.hDialog.js"></script>
